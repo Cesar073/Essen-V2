@@ -64,7 +64,7 @@ ESTRUCTURA DE LA BASE DE DATOS Prod.db
 
 #Biblioteca para conectarse a base de datos SQLite
 import sqlite3
-import mod.vars as mi_vars
+import sources.mod.vars as mi_vars
 #import vars as mi_vars
 
 '''########################################################################################################################################

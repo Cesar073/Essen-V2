@@ -25,7 +25,7 @@ Puntos = []
 PuntosMG = []
 Filas = []
 # Indica el path para ubicar la base de datos que contiene los productos y algunas configuraciones
-BaseDeDatos = "./db\\prod.db"
+BaseDeDatos = "./sources\\db\\prod.db"
 
 # Estas variables no se deben actualizar sobre el programa, de ser necesario, se debe reiniciar el programa.
 # No se porque puse eso arriba, pero ya lo analizaré. Por el momento se quitó la posibilidad de que una de esas 3 clasificaciones se puedan desactivar, van a estar siempre
